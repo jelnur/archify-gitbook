@@ -14,7 +14,3 @@
   * [Who is the Software Architect](concepts/software-architect/who-is-the-software-architect.md)
   * [Types of Software Architects](concepts/software-architect/types-of-software-architects.md)
   * [Soft Skills](concepts/software-architect/soft-skills.md)
-
-## Components
-
-* [Database](components/database.md)
