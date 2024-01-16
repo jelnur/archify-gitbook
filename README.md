@@ -1,6 +1,4 @@
-# Archify
-
-## Software Architect's Notes
+# Software Architecture Notes
 
 Read it online at [https://docs.archify.com](https://docs.archify.pro)
 

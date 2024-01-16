@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Archify](README.md)
+* [Software Architecture Notes](README.md)
 
 ## Concepts
 
