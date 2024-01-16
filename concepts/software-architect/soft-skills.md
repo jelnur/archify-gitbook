@@ -10,3 +10,4 @@
 * **Negotiation:** Ability to facilitate discussions, resolve conflicts, and reach consensus among team members with differing opinions.
 * **Time Management:** Efficiently allocating time and resources to meet project deadlines and milestones.
 * **Learning Agility:** Willingness and ability to continuously learn and adapt to new technologies and industry trends.
+* **Mentoring:** Mentor, teach, and grow the team
