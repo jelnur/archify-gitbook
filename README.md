@@ -1,12 +1,10 @@
 # Software Architecture Notes
 
-Read it online at [https://docs.archify.pro](https://docs.archify.pro)
+[Table of contents](SUMMARY.md)
 
-GitHub repo at [https://github.com/jelnur/archify-gitbook](https://github.com/jelnur/archify-gitbook)
+Read online at [https://docs.archify.pro](https://docs.archify.pro)
 
-
-
-Table of contents: [https://github.com/jelnur/archify-gitbook/blob/main/SUMMARY.md](SUMMARY.md)
+Collaborate on [GitHub repo](https://github.com/jelnur/archify-gitbook)
 
 ***
 
