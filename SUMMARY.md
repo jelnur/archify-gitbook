@@ -7,7 +7,7 @@
 * [Software Architecture](concepts/software-architecture/README.md)
   * [What is Software Architecture](concepts/software-architecture/what-is-software-architecture.md)
   * [Software Architecture Styles](concepts/software-architecture/software-architecture-styles/README.md)
-    * [Monolith](concepts/software-architecture/software-architecture-styles/monolith.md)
+    * [Monolithic](concepts/software-architecture/software-architecture-styles/monolithic.md)
   * [Quality Attributies](concepts/software-architecture/quality-attributies.md)
   * [Principles](concepts/software-architecture/principles.md)
 * [Software Architect](concepts/software-architect/README.md)

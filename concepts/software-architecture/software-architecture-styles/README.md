@@ -1,6 +1,6 @@
 # Software Architecture Styles
 
-* **Monolithic Architecture:** Single, self-contained application with all components tightly integrated.
+* [**Monolithic Architecture**](monolithic.md)**:** Single, self-contained application with all components tightly integrated.
 * **Microservices Architecture:** Break down a system into smaller, independent services that communicate with each other.
 * **Client-Server Architecture:** Divides processing tasks between client devices and a central server.
 * **Service-Oriented Architecture (SOA):** Organizes software as a collection of services that communicate through well-defined interfaces.

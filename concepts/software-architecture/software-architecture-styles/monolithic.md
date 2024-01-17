@@ -1,4 +1,20 @@
-# Monolith
+# Monolithic
+
+```mermaid fullWidth="true"
+graph TD
+  subgraph Monolith
+    A[Web UI]
+    B[Business Logic]
+    C[Database]
+    D[External APIs]
+    E[Background Jobs]
+  end
+
+  A --> B
+  B --> C
+  B --> D
+  B --> E
+```
 
 ### Advantages
 
