@@ -1,6 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1615914143778-1a1a6e50c5dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0YWtpbmclMjBub3Rlc3xlbnwwfHx8fDE3MDU0OTU1Nzd8MA&ixlib=rb-4.0.3&q=85
+  .gitbook/assets/1907.i109.039.p.m004.c30.programming development isometric
+  icons-16.jpg
 coverY: 0
 layout:
   cover:
