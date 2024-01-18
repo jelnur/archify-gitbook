@@ -9,6 +9,8 @@
   * [Software Architecture Styles](concepts/software-architecture/software-architecture-styles/README.md)
     * [Monolithic](concepts/software-architecture/software-architecture-styles/monolithic.md)
     * [Microservices](concepts/software-architecture/software-architecture-styles/microservices.md)
+    * [Client-Server](concepts/software-architecture/software-architecture-styles/client-server.md)
+    * [N-Tier](concepts/software-architecture/software-architecture-styles/n-tier.md)
   * [Quality Attributies](concepts/software-architecture/quality-attributies.md)
   * [Principles](concepts/software-architecture/principles.md)
 * [Software Architect](concepts/software-architect/README.md)

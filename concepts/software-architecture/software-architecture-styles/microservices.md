@@ -53,14 +53,14 @@ graph TD
 * **Integration testing**: Testing the interactions between multiple services and ensuring proper functionality can be more complex and time-consuming compared to monolithic architectures.
 * **Increased overhead**: Each service requires its own infrastructure, deployment, and maintenance, resulting in increased operational overhead and costs.
 
-### Suitable use cases
+### Suitable Use Cases
 
 * Large and complex systems need to be divided into manageable components.
 * Agile development environments where teams can independently develop and deploy services.
 * Applications with varying scalability requirements where specific services can be scaled up or down based on demand.
 * Applications that require frequent updates and continuous delivery practices.
 
-### Non-suitable use cases
+### Non-suitable Use Cases
 
 * Small and simple applications that do not require the complexity of a microservices architecture.
 * Applications with strict performance requirements, as the overhead of communication between services can impact performance.
