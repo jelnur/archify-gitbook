@@ -24,9 +24,9 @@ layout:
 
 ### Concepts
 
-[Software Architecture](concepts/software-architecture/)
+[Software Architecture](broken-reference)
 
-[Software Architect](concepts/software-architect/)
+[Software Architect](broken-reference)
 
 ***
 
