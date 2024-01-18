@@ -20,16 +20,6 @@ layout:
 
 # Software Architecture Notes
 
-## Table of Contents
-
-### Concepts
-
-[Software Architecture](broken-reference)
-
-[Software Architect](broken-reference)
-
-***
-
 Read online at [https://docs.archify.pro](https://docs.archify.pro)
 
 Collaborate on [GitHub repo](https://github.com/jelnur/archify-gitbook)
