@@ -22,4 +22,4 @@ Collaborate on [GitHub repo](https://github.com/jelnur/archify-gitbook)
 
 Contact me on [Linkedin](https://www.linkedin.com/in/elnurjabarov)
 
-{% @mailchimp/mailchimpSubscribe %}
+{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive updates!" %}
