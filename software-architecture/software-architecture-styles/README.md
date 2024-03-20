@@ -6,7 +6,7 @@
 * [**N-Tier Architecture**](n-tier.md)**:** Distributes application processing across multiple layers or tiers for scalability.
 * [**Service-Oriented Architecture (SOA)**](service-oriented-architecture-soa.md)**:** Organizes software as a collection of services that communicate through well-defined interfaces.
 * [**Event-Driven Architecture**](event-driven-architecture.md)**:** Components communicate through events, reacting to changes or triggers.
-* **Layered Architecture:** Divides software into layers, each responsible for specific functionality.
+* [**Layered Architecture**](layered-architecture.md)**:** Divides software into layers, each responsible for specific functionality.
 * **Peer-to-Peer Architecture:** Allows individual devices to communicate and share resources directly.
 * **Component-Based Architecture:** Constructs software from reusable, self-contained components.
 * **Event Sourcing Architecture:** Stores all changes to the application state as a sequence of events.
