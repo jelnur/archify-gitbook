@@ -12,6 +12,7 @@
   * [Client-Server](software-architecture/software-architecture-styles/client-server.md)
   * [N-Tier](software-architecture/software-architecture-styles/n-tier.md)
   * [Service-Oriented Architecture (SOA)](software-architecture/software-architecture-styles/service-oriented-architecture-soa.md)
+  * [Event-Driven Architecture](software-architecture/software-architecture-styles/event-driven-architecture.md)
 * [Quality Attributies](software-architecture/quality-attributies.md)
 
 ## Software Architect
