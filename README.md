@@ -16,7 +16,7 @@ layout:
 
 Read online at [https://docs.archify.pro](https://docs.archify.pro)
 
-Contribute to [GitHub repo](https://github.com/jelnur/archify-gitbook)
+Contribute at [GitHub](https://github.com/jelnur/archify-gitbook)
 
 ***
 
