@@ -3,6 +3,8 @@
 * **KISS (Keep It Simple, Stupid):** Emphasizes simplicity in design to avoid unnecessary complexity.
 * **YAGNI (You Ain't Gonna Need It):** Encourages developers to avoid adding features or functionality until it's proven necessary.
 * **DRY (Don't Repeat Yourself):** Promotes code reusability by avoiding duplication of code.
+* **Overengineering: D**esigning the system to be more complex or sophisticated than necessary, often resulting in unnecessary costs, resources, or complications.
+* **Premature Optimization**: Optimizing code or processes before it is clear where optimization is truly needed, often resulting in wasted time and effort.
 * **Separation of Concerns:** Divides a software system into distinct sections, each addressing a specific concern or functionality.
 * **Single Responsibility Principle (SRP):** A class or module should have only one reason to change, meaning it should only have one responsibility.
 * **Open/Closed Principle (OCP):** Software entities should be open for extension but closed for modification.
