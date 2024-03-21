@@ -17,6 +17,7 @@
   * [Layered Architecture](software-architecture/software-architecture-styles/layered-architecture.md)
   * [Peer-to-Peer Architecture](software-architecture/software-architecture-styles/peer-to-peer-architecture.md)
   * [Component-Based Architecture](software-architecture/software-architecture-styles/component-based-architecture.md)
+  * [Serverless Architecture](software-architecture/software-architecture-styles/serverless-architecture.md)
 * [Quality Attributies](software-architecture/quality-attributies.md)
 
 ## Software Architect

@@ -10,4 +10,4 @@
 * [**Layered Architecture**](layered-architecture.md)**:** Divides software into layers, each responsible for specific functionality.
 * [**Peer-to-Peer Architecture**](peer-to-peer-architecture.md)**:** Allows individual devices to communicate and share resources directly.
 * [**Component-Based Architecture**](component-based-architecture.md)**:** Constructs software from reusable, self-contained components.
-* **Serverless Architecture:** Focuses on building applications without managing server infrastructure.
+* [**Serverless Architecture**](serverless-architecture.md)**:** Focuses on building applications without managing server infrastructure.
