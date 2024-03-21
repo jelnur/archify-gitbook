@@ -13,6 +13,7 @@
   * [N-Tier](software-architecture/software-architecture-styles/n-tier.md)
   * [Service-Oriented Architecture (SOA)](software-architecture/software-architecture-styles/service-oriented-architecture-soa.md)
   * [Event-Driven Architecture](software-architecture/software-architecture-styles/event-driven-architecture.md)
+  * [Event Sourcing Architecture](software-architecture/software-architecture-styles/event-sourcing-architecture.md)
   * [Layered Architecture](software-architecture/software-architecture-styles/layered-architecture.md)
   * [Peer-to-Peer Architecture](software-architecture/software-architecture-styles/peer-to-peer-architecture.md)
   * [Component-Based Architecture](software-architecture/software-architecture-styles/component-based-architecture.md)
