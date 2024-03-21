@@ -14,6 +14,7 @@
   * [Service-Oriented Architecture (SOA)](software-architecture/software-architecture-styles/service-oriented-architecture-soa.md)
   * [Event-Driven Architecture](software-architecture/software-architecture-styles/event-driven-architecture.md)
   * [Layered Architecture](software-architecture/software-architecture-styles/layered-architecture.md)
+  * [Peer-to-Peer Architecture](software-architecture/software-architecture-styles/peer-to-peer-architecture.md)
 * [Quality Attributies](software-architecture/quality-attributies.md)
 
 ## Software Architect

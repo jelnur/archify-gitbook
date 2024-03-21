@@ -2,7 +2,7 @@
 
 ### Definition
 
-**Layered Architecture**: Layered architecture is a software architectural pattern that divides an application into layers, with each layer responsible for a specific set of functionalities. Each layer in the architecture depends on the layer beneath it and provides services to the layer above it.
+Layered architecture is a software architectural pattern that divides an application into layers, with each layer responsible for a specific set of functionalities. Each layer in the architecture depends on the layer beneath it and provides services to the layer above it.
 
 ```mermaid
 graph TD;
