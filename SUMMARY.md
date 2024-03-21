@@ -15,6 +15,7 @@
   * [Event-Driven Architecture](software-architecture/software-architecture-styles/event-driven-architecture.md)
   * [Layered Architecture](software-architecture/software-architecture-styles/layered-architecture.md)
   * [Peer-to-Peer Architecture](software-architecture/software-architecture-styles/peer-to-peer-architecture.md)
+  * [Component-Based Architecture](software-architecture/software-architecture-styles/component-based-architecture.md)
 * [Quality Attributies](software-architecture/quality-attributies.md)
 
 ## Software Architect

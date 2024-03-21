@@ -8,6 +8,6 @@
 * [**Event-Driven Architecture**](event-driven-architecture.md)**:** Components communicate through events, reacting to changes or triggers.
 * [**Layered Architecture**](layered-architecture.md)**:** Divides software into layers, each responsible for specific functionality.
 * [**Peer-to-Peer Architecture**](peer-to-peer-architecture.md)**:** Allows individual devices to communicate and share resources directly.
-* **Component-Based Architecture:** Constructs software from reusable, self-contained components.
+* [**Component-Based Architecture**](component-based-architecture.md)**:** Constructs software from reusable, self-contained components.
 * **Event Sourcing Architecture:** Stores all changes to the application state as a sequence of events.
 * **Serverless Architecture:** Focuses on building applications without managing server infrastructure.
